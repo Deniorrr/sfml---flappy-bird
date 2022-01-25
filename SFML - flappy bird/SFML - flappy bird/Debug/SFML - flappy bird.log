@@ -1,0 +1,45 @@
+﻿  SFML - flappy bird.cpp
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(100,25): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(101,17): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(152,52): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(158,1): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(160,1): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(163,31): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(164,31): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(171,53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(171,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(172,46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(172,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(184,52): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(234,1): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(244,115): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(244,81): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(255,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(256,37): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(356,54): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\SFML - flappy bird\SFML - flappy bird.cpp(356,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  SFML - flappy bird.vcxproj -> C:\Users\Deniorr\Desktop\cpp\SFML - flappy bird\Debug\SFML - flappy bird.exe
